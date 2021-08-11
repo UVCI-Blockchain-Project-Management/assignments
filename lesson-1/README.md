@@ -11,3 +11,8 @@ Here is your assignment:
 - [ ] Find out transaction hash of token request. you can find it here
   https://block-explorer.oysternet.cosmwasm.com/transactions. Use the search bar :)
 - [ ] Post your address and faucet request transaction hash back to us.
+
+## Grading
+
+Fill your address to [index.ts/ADDRESS](index.ts) variable.
+Test script will check the validity of the address.
