@@ -10,5 +10,5 @@ Here is your assignment:
   finding information is a skill itself :)
 - [ ] Find out transaction hash of token request. you can find it here
   https://block-explorer.pebblenet.cosmwasm.com/transactions. Use the search bar :)
-- [ ] Post your address and faucet request transaction hash back to us by writing it in [result.json](result.json) 
+- [ ] Post your address and faucet request transaction hash back to us by writing it in [assignment.json](assignment.json) 
   and pushing to your assignment repo. If all valid, assignment will be graded automatically.
