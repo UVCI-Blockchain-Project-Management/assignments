@@ -1,0 +1,31 @@
+{
+  "name": "lesson-2",
+  "version": "1.0.0",
+  "description": "lesson 2 auto grading",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UVCI-Blockchain-Project-Management/assignments.git#main"
+  },
+  "author": "orkunkl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UVCI-Blockchain-Project-Management/assignments/issues"
+  },
+  "homepage": "https://github.com/UVCI-Blockchain-Project-Management/assignments/tree/main#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.15.0",
+    "@cosmjs/stargate": "^0.26.0",
+    "@cosmjs/cosmwasm-stargate": "^0.26.0",
+    "@cosmjs/tendermint-rpc": "^0.26.0",
+    "@cosmjs/encoding": "^0.26.0"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.15.0",
+    "@types/jest": "^27.0.0",
+    "jest": "^27.0.6"
+  }
+}
