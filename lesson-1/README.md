@@ -1,6 +1,6 @@
 # Lesson 1
 
-In this lesson we learned basics of blockchain.
+In this lesson we learned basics of blockchain. You can find the lesson content [here](https://docs.cosmwasm.com/dev-academy/intro).
 
 Here is your assignment:
 
